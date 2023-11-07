@@ -1,0 +1,91 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot test 1`] = `
+<div
+  className="App"
+  data-testid="componentTest"
+>
+  <div
+    className="body"
+  >
+    <div
+      className="container"
+    >
+      <nav
+        className="bg-body-tertiary navbar navbar-expand-lg navbar-light"
+      >
+        <div
+          className="container"
+        >
+          <span
+            className="navbar-brand"
+          >
+            🍎 Tunes 
+          </span>
+        </div>
+      </nav>
+    </div>
+    <div
+      className="search-path"
+    >
+      <h1>
+        Welcome !!
+      </h1>
+      <h4>
+        To
+      </h4>
+      <h1>
+        🍎 Tunes
+      </h1>
+      <p>
+        Welcome to 🍎 Tunes to proceed to the search page click the button below ↓
+      </p>
+    </div>
+    <div
+      className="button-con"
+    >
+      <a
+        href="/search"
+        onClick={[Function]}
+      >
+        <button
+          className="btn active btn-primary btn-lg"
+          disabled={false}
+          type="button"
+        >
+          Go to Search
+        </button>
+         
+      </a>
+    </div>
+    <div
+      className="Footer"
+    >
+      <div
+        className="card"
+      >
+        <div
+          className="card-body"
+        >
+          <blockquote
+            className="blockquote mb-0"
+          >
+            <p>
+              🍎 Tunes is App that uses a Itunes API to retrieve music
+            </p>
+            <footer
+              className="blockquote-footer"
+            >
+              <cite
+                title="Source Title"
+              >
+                Created by Zubair Hoosain
+              </cite>
+            </footer>
+          </blockquote>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

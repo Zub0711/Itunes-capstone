@@ -1,0 +1,44 @@
+body {
+  background-color: lightgrey;
+}
+.body {
+  background-color: lightgrey;
+}
+
+.search-path {
+  background-color: lightgray;
+  padding: 30px;
+  font-style: oblique;
+  border-bottom: double black 2px;
+  border-top: double black 2px;
+}
+
+h1 {
+  font-style: oblique;
+}
+
+p {
+  background-color: lightgray;
+  padding: 10px;
+  font-size: 30px;
+  text-decoration: underline 2px black;
+  font-style: oblique;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.button-con {
+  background-color: lightgrey;
+  padding: 20px;
+}
+
+Button {
+  background-color: lightgrey;
+  color: black;
+}
+
+.Footer {
+  background-color: lightgray;
+  border-bottom: double black 2px;
+  border-top: double black 2px;
+  padding: 10px;
+}

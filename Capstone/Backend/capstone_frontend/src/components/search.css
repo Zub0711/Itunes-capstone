@@ -1,0 +1,26 @@
+body {
+  background-color: lightgrey;
+}
+
+.button-div {
+  padding: 20px;
+}
+
+.fav-button {
+  border-radius: 20px;
+  font-weight: bold;
+  font-size: 15px;
+  border: 2px solid black;
+}
+
+.fav-para {
+  text-decoration: none;
+}
+
+.fav-header {
+  font-weight: bold;
+  font-style: oblique;
+  text-decoration: underline;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 30px;
+}
